@@ -1,0 +1,3 @@
+[submodule "mmseg/datasets/dataset_api"]
+	path = mmseg/datasets/dataset_api
+	url = https://github.com/ApolloScapeAuto/dataset-api.git
